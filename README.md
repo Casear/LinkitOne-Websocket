@@ -1,4 +1,4 @@
-## Websocket Client and Server for Arduino
+## Websocket Client and Server for Linkit One
 
 This is a simple library that implements a Websocket client and server running on an Arduino.
 
